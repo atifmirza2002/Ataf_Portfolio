@@ -4,12 +4,6 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 - **Email**: [atifmirza9596@gmai.com](atifmirza9596@gmail.com)
 - **LinkedIn**: [linkedin.com/atafmirza](https://www.linkedin.com/in/atafmirza/)
 
-## Achievements
-- Recipient of Outstanding Master of Engineering - Industrial Engineering Student Award.
-- [Publication](https://phmpapers.org/index.php/phmconf/article/view/1292): Prognosis of Wind Turbine Gearbox Bearing Failures using SCADA and Modeled Data, Proceedings of the Annual Conference of the PHM Society 2020, Vol. 12 No. 1.
-- Winner of a TAMU Datathon 2020 among 50+ teams.
-- Recipient of TAMU Scholarship and Fee Waiver for excellent academic performance (4.0 GPA).
-
 ## Projects
 
 <img align="left" width="250" height="150" src="https://i.pinimg.com/736x/a6/b1/3e/a6b13e65c1d0e490df6d0d35fc3d1065.jpg"> **[News Popularity Prediction on Social Media Platforms](https://github.com/atifmirza2002/News-Popularity-Prediction-on-Social-Media-Platforms)**
