@@ -20,7 +20,7 @@ In this project I have used survival analysis to study how the likelihood of the
 
 In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. [App](https://churn-prediction-app.herokuapp.com/)  
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Stock_Analysis_App
+<img align="left" width="250" height="150" src="https://techbullion.com/wp-content/uploads/2021/06/Stock-Analysis-Apps.jpg"> **[Stock_Analysis_App
 ](https://github.com/atifmirza2002/Stock_Analysis_App)**
 
 In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. [App](https://churn-prediction-app.herokuapp.com/)  
