@@ -2,7 +2,7 @@
 This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
 
 - **Email**: [atifmirza9596@gmai.com](atifmirza9596@gmail.com)
-- **LinkedIn**: [linkedin.com/](https://www.linkedin.com/in/atafmirza/)
+- **LinkedIn**: [linkedin.com/atafmirza](https://www.linkedin.com/in/atafmirza/)
 
 ## Achievements
 - Recipient of Outstanding Master of Engineering - Industrial Engineering Student Award.
@@ -12,7 +12,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[News Popularity Prediction on Social Media Platforms](https://github.com/atifmirza2002/News-Popularity-Prediction-on-Social-Media-Platforms)**
+<img align="left" width="250" height="150" src="https://i.pinimg.com/736x/a6/b1/3e/a6b13e65c1d0e490df6d0d35fc3d1065.jpg"> **[News Popularity Prediction on Social Media Platforms](https://github.com/atifmirza2002/News-Popularity-Prediction-on-Social-Media-Platforms)**
 
 In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. [App](https://churn-prediction-app.herokuapp.com/)  
 
